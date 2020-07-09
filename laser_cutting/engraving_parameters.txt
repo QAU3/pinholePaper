@@ -1,0 +1,5 @@
+Trotec speedy
+Custom engraving ->
+Power=40
+Speed=20
+Frequency=1000
